@@ -23,3 +23,4 @@ plt.ylim(-1.0,3.0)
 plt.title('阶跃信号') 
 plt.plot(t,function(t))
 plt.show()
+#传不上去！
